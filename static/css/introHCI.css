@@ -39,8 +39,12 @@ p {
 	position: absolute;
 	z-index: -1;    
 }
-.project-container{
 
+.project-name{
+	text-align: center;
+}
+.project-title{
+	text-align: center;
 }
 
 .project {
